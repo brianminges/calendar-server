@@ -1,0 +1,63 @@
+[
+    {
+        "model": "calendarappapi.event",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "title": "New Year's Eve Spectacular",
+            "date_start": "2022-12-31",
+            "date_end": "2023-01-01",
+            "time_start": "19:00:00",
+            "time_end": "01:00:00",
+            "cost": "Free",
+            "about": "Watch fireworks over Old Hickory Lake",
+            "street": "123 Main Street",
+            "city": "Hendersonville",
+            "state": 42,
+            "zip": 12345,
+            "social_one": "@Hvillefun",
+            "social_two": ""
+        }
+    },
+    {
+        "model": "calendarappapi.event",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "title": "Concert in the Park: A tribute to Johnny Rivers",
+            "date_start": "2023-01-08",
+            "date_end": "2023-01-08",
+            "time_start": "20:00:00",
+            "time_end": "23:00:00",
+            "cost": "Adults: $15, Kids: $5, under 2 free",
+            "about": "Hear the greatest hits by Jimmy Jo and the Band on the banks of the Cumberland River. Food trucks will be on site.",
+            "street": "1234 Second Ave.",
+            "city": "Nashville",
+            "state": 42,
+            "zip": 12345,
+            "social_one": "@johnnyriversfanclub",
+            "social_two": ""
+        }
+    },
+    {
+        "model": "calendarappapi.event",
+        "pk": 3,
+        "fields": {
+            "user": 2,
+            "title": "Dog wash fundraiser",
+            "date_start": "2023-02-02",
+            "date_end": "2023-02-02",
+            "time_start": "12:00:00",
+            "time_end": "16:00:00",
+            "cost": "$50 for all size dogs",
+            "about": "Help raise money for Cub Scouts Den 453",
+            "street": "123 Cherry Grove Lane",
+            "city": "Gallatin",
+            "state": 42,
+            "zip": 12345,
+            "social_one": "",
+            "social_two": ""
+        }
+    }
+
+]

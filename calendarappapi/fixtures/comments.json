@@ -1,0 +1,29 @@
+[
+    {
+        "model": "calendarappapi.comment",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "text": "I loved this event. I'm coming back next year.",
+            "event": 1
+        }
+    },
+    {
+        "model": "calendarappapi.comment",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "text": "Awesome!",
+            "event": 1
+        }
+    },
+    {
+        "model": "calendarappapi.comment",
+        "pk": 2,
+        "fields": {
+            "user": 3,
+            "text": "It was better last year.",
+            "event": 2
+        }
+    }
+]
