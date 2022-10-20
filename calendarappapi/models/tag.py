@@ -2,4 +2,4 @@ from calendar import c
 from django.db import models
 
 class Tag(models.Model):
-    name = models.CharField()
+    name = models.CharField(max_length=20)

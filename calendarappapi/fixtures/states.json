@@ -1,0 +1,404 @@
+[
+    {
+        "model": "calendarappapi.state",
+        "pk": 1,
+        "fields": {
+            "name": "Alabama",
+            "abbreviation": "AL"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 2,
+        "fields": {
+            "name": "Alaska",
+            "abbreviation": "AK"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 3,
+        "fields": {
+            "name": "Arizona",
+            "abbreviation": "AZ"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 4,
+        "fields": {
+            "name": "Arkansas",
+            "abbreviation": "AR"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 5,
+        "fields": {
+            "name": "California",
+            "abbreviation": "CA"
+            
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 6,
+        "fields": {
+            "name": "Colorado",
+            "abbreviation": "CO"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 7,
+        "fields": {
+            "name": "Connecticut",
+            "abbreviation": "CT"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 8,
+        "fields": {
+            "name": "Delaware",
+            "abbreviation": "DE"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 9,
+        "fields": {
+            "name": "Florida",
+            "abbreviation": "FL"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 10,
+        "fields": {
+            "name": "Georgia",
+            "abbreviation": "GA"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 11,
+        "fields": {
+            "name": "Hawaii",
+            "abbreviation": "HI"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 12,
+        "fields": {
+            "name": "Idaho",
+            "abbreviation": "ID"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 13,
+        "fields": {
+            "name": "Illinois",
+            "abbreviation": "IL"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 14,
+        "fields": {
+            "name": "Indiana",
+            "abbreviation": "IN"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 15,
+        "fields": {
+            "name": "Iowa",
+            "abbreviation": "IA"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 16,
+        "fields": {
+            "name": "Kansas",
+            "abbreviation": "KS"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 17,
+        "fields": {
+            "name": "Kentucky",
+            "abbreviation": "KY"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 18,
+        "fields": {
+            "name": "Louisiana",
+            "abbreviation": "LA"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 19,
+        "fields": {
+            "name": "Maine",
+            "abbreviation": "ME"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 20,
+        "fields": {
+            "name": "Maryland",
+            "abbreviation": "MD"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 21,
+        "fields": {
+            "name": "Massachusetts",
+            "abbreviation": "MA"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 22,
+        "fields": {
+            "name": "Michigan",
+            "abbreviation": "MI"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 23,
+        "fields": {
+            "name": "Minnesota",
+            "abbreviation": "MN"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 24,
+        "fields": {
+            "name": "Mississippi",
+            "abbreviation": "MS"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 25,
+        "fields": {
+            "name": "Missouri",
+            "abbreviation": "MZ"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 26,
+        "fields": {
+            "name": "Montana",
+            "abbreviation": "MT"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 27,
+        "fields": {
+            "name": "Nebraska",
+            "abbreviation": "NE"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 28,
+        "fields": {
+            "name": "Nevada",
+            "abbreviation": "NV"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 29,
+        "fields": {
+            "name": "New Hampshire",
+            "abbreviation": "NH"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 30,
+        "fields": {
+            "name": "New Jersey",
+            "abbreviation": "NJ"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 31,
+        "fields": {
+            "name": "New Mexico",
+            "abbreviation": "NM"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 32,
+        "fields": {
+            "name": "New York",
+            "abbreviation": "NM"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 33,
+        "fields": {
+            "name": "North Carolina",
+            "abbreviation": "NC"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 34,
+        "fields": {
+            "name": "North Dakota",
+            "abbreviation": "ND"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 35,
+        "fields": {
+            "name": "Ohio",
+            "abbreviation": "OH"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 36,
+        "fields": {
+            "name": "Oklahoma",
+            "abbreviation": "OK"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 37,
+        "fields": {
+            "name": "Oregon",
+            "abbreviation": "OR"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 38,
+        "fields": {
+            "name": "Pennsylvania",
+            "abbreviation": "PA"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 39,
+        "fields": {
+            "name": "Rhode Island",
+            "abbreviation": "RI"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 40,
+        "fields": {
+            "name": "South Carolina",
+            "abbreviation": "SC"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 41,
+        "fields": {
+            "name": "South Dakota",
+            "abbreviation": "SD"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 42,
+        "fields": {
+            "name": "Tennessee",
+            "abbreviation": "TN"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 43,
+        "fields": {
+            "name": "Texas",
+            "abbreviation": "TX"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 44,
+        "fields": {
+            "name": "Utah",
+            "abbreviation": "UT"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 45,
+        "fields": {
+            "name": "Vermont",
+            "abbreviation": "VT"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 46,
+        "fields": {
+            "name": "Virginia",
+            "abbreviation": "VA"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 47,
+        "fields": {
+            "name": "Washington",
+            "abbreviation": "WA"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 48,
+        "fields": {
+            "name": "West Virginia",
+            "abbreviation": "WV"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 49,
+        "fields": {
+            "name": "Wisconsin",
+            "abbreviation": "WI"
+        }
+    },
+    {
+        "model": "calendarappapi.state",
+        "pk": 50,
+        "fields": {
+            "name": "Wyoming",
+            "abbreviation": "WY"
+        }
+    }
+
+]
